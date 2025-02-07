@@ -30,3 +30,4 @@ Live Demo: [Visual Learning Assistant](https://visual-learning-assistant.vercel.
    cd visual-learning-assistant
    REACT_APP_GEMINI_API_KEY="Your Gemini API key" npm start
 
+You can generate Gemini API key from here: https://aistudio.google.com/apikey
